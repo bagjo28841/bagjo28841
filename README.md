@@ -1,9 +1,6 @@
-### Hi there 👋
+### :whale: Welcome to my Github!
 
-<!--
-**bagjo28841/bagjo28841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![bagjo28841's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagjo28841&count_private=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
